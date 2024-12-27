@@ -1,2 +1,2 @@
-# medtech-auth-service
-Auth Service for MedTech Web Application written with Go
+# Auth Service for MedTech Web Application
+TBD
